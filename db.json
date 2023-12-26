@@ -1,5 +1,96 @@
 {
-    "allvideos" :[] ,
-    "history" : [] ,
-    "categories" : []
+  "allvideos": [
+    {
+      "id": "1",
+      "caption": "Leo Trailer",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202309/second-track-badass-from-thalapathy-vijays-leo-will-release-on-september-28-272346380-16x9.jpg?VersionId=XpzDqWNDkrtBevS0gfdJg3BF6FBvZw9C&size=690:388",
+      "link": "http://www.youtube.com/embed/IqwIOlhfCak"
+    },
+    {
+      "id": "2",
+      "caption": "Salaar Trailer",
+      "url": "https://static.toiimg.com/thumb/msid-105661610,width-1280,resizemode-4/105661610.jpg",
+      "link": "http://www.youtube.com/embed/HihakYi5M2I"
+    },
+    {
+      "id": "6",
+      "caption": "RDX trailer",
+      "url": "https://assets.gadgets360cdn.com/pricee/assets/product/202307/RDX_1688461863.jpg",
+      "link": "http://www.youtube.com/embed/NJjDRnE-5_4"
+    },
+    {
+      "id": "7",
+      "caption": "KGF Trailer",
+      "url": "https://static.toiimg.com/photo/msid-89964322/89964322.jpg",
+      "link": "http://www.youtube.com/embed/-KfsY-qwBS0"
+    },
+    {
+      "id": "8",
+      "caption": "React Tutorial",
+      "url": "https://cdn-media-1.freecodecamp.org/images/1*3WTslHrSuJfqlj3qZRRFPQ.png",
+      "link": "http://www.youtube.com/embed/j942wKiXFu8"
+    },
+    {
+      "id": "9",
+      "caption": "JS Tutorial",
+      "url": "https://img-c.udemycdn.com/course/750x422/1518026_77fb_4.jpg",
+      "link": "http://www.youtube.com/embed/PkZNo7MFNFg"
+    },
+    {
+      "id": "10",
+      "caption": "Neethane Song",
+      "url": "https://c.saavncdn.com/148/Neethanae-From-Mersal--Tamil-2017-20170817112839-500x500.jpg",
+      "link": "http://www.youtube.com/embed/jCafZht8yMA"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Neethane Song",
+      "link": "http://www.youtube.com/embed/jCafZht8yMA",
+      "timestamp": "12/19/2023, 05:06:22 PM",
+      "id": 1
+    },
+    {
+      "caption": "Leo Trailer",
+      "link": "http://www.youtube.com/embed/IqwIOlhfCak",
+      "timestamp": "12/21/2023, 05:16:59 PM",
+      "id": 2
+    },
+    {
+      "caption": "KGF Trailer",
+      "link": "http://www.youtube.com/embed/-KfsY-qwBS0",
+      "timestamp": "12/22/2023, 05:11:12 PM",
+      "id": 3
+    },
+    {
+      "caption": "Neethane Song",
+      "link": "http://www.youtube.com/embed/jCafZht8yMA",
+      "timestamp": "12/22/2023, 05:13:29 PM",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "CategoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "CategoryName": "Songs",
+      "allVideos": []
+    },
+    {
+      "id": 3,
+      "CategoryName": "Tutorial",
+      "allVideos": [
+        {
+          "id": "9",
+          "caption": "JS Tutorial",
+          "url": "https://img-c.udemycdn.com/course/750x422/1518026_77fb_4.jpg",
+          "link": "http://www.youtube.com/embed/PkZNo7MFNFg"
+        }
+      ]
+    }
+  ]
 }
